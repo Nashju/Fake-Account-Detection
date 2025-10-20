@@ -1,4 +1,4 @@
-👉 [View the full interactive report](social_media_fake_account_detection.html)
+👉 [View the full interactive report](Social_Media_Fake_Account_Detection.html)
 # 🧠 Social Media Fake Account Detection
 
 ### 🎯 Objective
